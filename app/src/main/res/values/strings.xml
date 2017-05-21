@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lyrik</string>
+
+    <string name="search">Search</string>
+
+    <string name="error_no_songs">No songs found</string>
+    <string name="error_no_lyrics">No lyrics found</string>
+    <string name="error_connection">Unable to connect to server</string>
+</resources>
